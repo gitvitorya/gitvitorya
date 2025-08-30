@@ -43,7 +43,7 @@ Além disso, tenho grande interesse em Inteligência Artificial e Análise de Da
 
 ---
 
-## 📊 Linguagens de Programação
+## 📊 Linguagens de Programação mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitvitorya&layout=compact&theme=tokyonight)
 
