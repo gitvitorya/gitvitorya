@@ -43,20 +43,10 @@ Além disso, tenho grande interesse em Inteligência Artificial e Análise de Da
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Linguagens de Programação
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gitvitorya&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitvitorya&layout=compact&theme=tokyonight"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitvitorya&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=gitvitorya&theme=tokyonight&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitvitorya&theme=tokyo-night"/>
-</p>
 ---
 
 🚀 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedora!
